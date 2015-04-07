@@ -1,2 +1,3 @@
 My original content
 Adding a new line from the same master branch
+This is a new line added from mynewbranch, not the master
